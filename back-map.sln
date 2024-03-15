@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "back-map", "back-map\back-map.csproj", "{D5FCB8A2-A9F8-475D-B8E2-3609A98376BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FCB8A2-A9F8-475D-B8E2-3609A98376BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FCB8A2-A9F8-475D-B8E2-3609A98376BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FCB8A2-A9F8-475D-B8E2-3609A98376BF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FCB8A2-A9F8-475D-B8E2-3609A98376BF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927A5BF2-C7CC-4EB8-8786-129C28E8DB97}
+	EndGlobalSection
+EndGlobal
