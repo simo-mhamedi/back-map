@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+SB4hJLoJZ/yNvZdoepwT13lFIqznQ4sLGt8R3gZXkByVfaiLxuyT6rBRP1xoKEZoD19ZOUZKZJErDzubyGxag==",
+  "dgSpecHash": "+8OP+izWBk4=",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\freelance\\project3\\back\\back-map\\back-map\\back-map.csproj",
   "expectedPackageFiles": [
@@ -104,5 +104,16 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
